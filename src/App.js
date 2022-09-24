@@ -29,7 +29,7 @@ carregaODAs(){
   }
 
   render(){
-    const {busca, odas} = this.state;
+    const {odas} = this.state;
     return (
       <section>
           <Cabecalho/>
